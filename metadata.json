@@ -1,0 +1,6 @@
+{
+  "name": "Protocol Journal",
+  "description": "An elegant, distraction-free journal tailored for structured daily protocols, including gratitude reflections, consequential decision tracking, and evening reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
